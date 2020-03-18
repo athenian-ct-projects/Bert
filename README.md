@@ -1,9 +1,6 @@
-# Assignment Description
+# Image Search BZ '23
 
-written by 
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Image-Search-BZ)](https://repl.it/github/athenian-ct-projects/Image-Search-BZ)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* This tool searches the internet for images and returns the links.
